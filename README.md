@@ -1,2 +1,2 @@
 # SVM
-Trying SVM model for prediction on Cancer Data, Voice Data  
+Trying SVM model for prediction on Cancer Data
